@@ -1,0 +1,7 @@
+
+.buttons {
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid gainsboro;
+    margin-left: 12px;
+}
